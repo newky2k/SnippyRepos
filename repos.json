@@ -1,5 +1,5 @@
 {
     "repos" : [
-        {"name": "Snippy Test", "url" : "https://github.com/newky2k/SnippyTestRepo"}
+        {"Name": "Snippy Test", "Url" : "https://github.com/newky2k/SnippyTestRepo"}
     ]
 }
